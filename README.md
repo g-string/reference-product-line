@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/g-string/reference-product-line/tree/toolchain_testing.svg?style=svg)](https://circleci.com/gh/g-string/reference-product-line/tree/toolchain_testing)
+
 # How to establish your own Focus production line
 
 **Table of Contents**
